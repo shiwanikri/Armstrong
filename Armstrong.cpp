@@ -1,13 +1,9 @@
-//write a progrom to Check Armstrong Number (4 digit)
-//Downloaded From www.turboc8.com coded by Yogendra Singh.
-
 #include <iostream.h>
 #include<conio.h>
 #include<math.h>
 int main()
 {
 clrscr();
-cout<<"                         www.turboc8.com"<<endl;
 float n,m,s=0,b,count=0;
 cout<<"enter the number to find ";
 cin>>n;
